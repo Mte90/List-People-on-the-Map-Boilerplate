@@ -1,0 +1,28 @@
+{
+   "list":[
+      {
+         "name":"Daniele Scasciafratte",
+         "url":"https://mozillians.org/u/Mte90",
+         "gravatar":"mte90net@gmail.com",
+         "country":"Italy",
+         "lat":42.4154,
+         "lng":12.863985
+      },
+      {
+         "name":"John Smith",
+         "url":"https://google.com",
+         "gravatar":"fake@tld.com",
+         "country":"USA",
+         "lat":36.778259,
+         "lng":-119.417931
+      },
+      {
+         "name":"Good guy",
+         "url":"https://fakedomain.tld",
+         "gravatar":"fake@email.tld",
+         "country":"Singapore",
+         "lat":1.290270,
+         "lng":103.851959
+      }
+   ]
+}
